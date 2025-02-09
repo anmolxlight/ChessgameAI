@@ -73,7 +73,7 @@ python3 chess.py
 py chess.py
 ```
 
-> **Note:** The Minimax AI will not function until you complete the implementation as outlined in the tutorial. However, you can play against the **random move AI** to verify that the setup is working correctly.
+
 
 ---
 
@@ -88,15 +88,9 @@ If you have a powerful computer, consider increasing the **depth parameter** of 
 
 ---
 
-## Contribution
 
-Contributions are welcome! Feel free to submit pull requests or report issues.
-
-📧 For any queries, contact us at **uci.ai.club@example.com**.
 
 ---
 
-## License
 
-This project is licensed under the **MIT License**.
 
